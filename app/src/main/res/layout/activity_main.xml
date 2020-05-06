@@ -17,24 +17,32 @@
         android:layout_width="match_parent"
         android:layout_height="172dp"
         android:layout_below="@+id/toolbar"
-        android:text="সকাল সন্ধ্যার আমল"/>
+        android:text="সকাল সন্ধ্যার আমল"
+        android:textSize="30dp"
+        android:textColor="@color/teal200"/>
     <Button
         android:id="@+id/namajerporerdhikr_button"
         android:layout_width="match_parent"
         android:layout_height="172dp"
         android:layout_below="@+id/sokalsondharamol_button"
-        android:text="নামাজের পরের যিকির" />
+        android:text="নামাজের পরের যিকির"
+        android:textSize="30dp"
+        android:textColor="@color/teal200"/>
     <Button
         android:id="@+id/tasweehbutton_button"
         android:layout_width="match_parent"
         android:layout_height="172dp"
         android:layout_below="@+id/namajerporerdhikr_button"
-        android:text="তাসবীহ সমূহ" />
+        android:text="তাসবীহ সমূহ"
+        android:textSize="30dp"
+        android:textColor="@color/teal200"/>
     <Button
         android:id="@+id/tasweehcounter_button"
         android:layout_width="match_parent"
         android:layout_height="172dp"
         android:layout_below="@+id/tasweehbutton_button"
-        android:text="তাসবীহ কাউন্টার" />
+        android:text="তাসবীহ কাউন্টার"
+        android:textSize="30dp"
+        android:textColor="@color/teal200"/>
 
 </RelativeLayout>
