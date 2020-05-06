@@ -11,7 +11,7 @@ import android.widget.EditText;
 import android.widget.RelativeLayout;
 import android.widget.TextView;
 
-public class Tasweeh extends Activity{
+public class TasweehCounter extends Activity{
 
         @Override
         protected void onCreate(Bundle savedInstanceState) {
