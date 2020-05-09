@@ -1,0 +1,6 @@
+<resources>
+	<dimen name="universal_button_width">144dp</dimen>
+	<dimen name="ratingbar_height">32.4dp</dimen>
+	<dimen name="textView_Wight">442.8dp</dimen>
+	<dimen name="universal_button_height">198dp</dimen>
+</resources>

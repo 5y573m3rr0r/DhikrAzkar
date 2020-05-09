@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="universal_button_width">80dp</dimen>
+    <dimen name="universal_button_height">110dp</dimen>
+    <dimen name="ratingbar_height">18dp</dimen>
+    <dimen name="textView_Wight">246dp</dimen>
+</resources>
